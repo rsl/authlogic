@@ -1,5 +1,7 @@
 = Authlogic
 
+** Please, please don't use this repo. I've only cloned it because of some legacy code that needs Authlogic on Rails 4 and need to make sure it exists (for now).
+
 ** Please note the latest version is compatible with rails 3.2 only. Please see the rails2 branch for Rails 2 compatibility.
 
 Authlogic is a clean, simple, and unobtrusive ruby authentication solution.
